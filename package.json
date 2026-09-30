@@ -1,0 +1,8 @@
+{
+  "name": "void-invaders",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A self-contained touch-first arcade space shooter",
+  "scripts": {"test": "node tests/game.cjs"},
+  "devDependencies": {"playwright": "1.62.1"}
+}
